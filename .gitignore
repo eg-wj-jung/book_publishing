@@ -2,3 +2,4 @@
 *.backup
 font/
 __pycache__/
+draft/
